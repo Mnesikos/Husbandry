@@ -1,0 +1,15 @@
+{
+  "forage": [
+    {
+      "chance": 0.25,
+      "hearts_required": 5,
+      "item": [
+        {
+          "count": 2,
+          "id": "minecraft:turtle_egg"
+        }
+      ],
+      "quality": true
+    }
+  ]
+}

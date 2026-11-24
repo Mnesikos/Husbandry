@@ -1,0 +1,22 @@
+{
+  "forage": [
+    {
+      "chance": 0.25,
+      "hearts_required": 5,
+      "item": [
+        {
+          "count": 8,
+          "id": "minecraft:ochre_froglight"
+        },
+        {
+          "count": 8,
+          "id": "minecraft:verdant_froglight"
+        },
+        {
+          "count": 8,
+          "id": "minecraft:pearlescent_froglight"
+        }
+      ]
+    }
+  ]
+}

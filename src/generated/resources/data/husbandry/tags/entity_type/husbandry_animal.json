@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#husbandry:husbandry_animal/milkable",
+    "#husbandry:husbandry_animal/coopmaster_bird",
+    "#husbandry:husbandry_animal/tier_two",
+    "#husbandry:husbandry_animal/tier_three",
+    "minecraft:sniffer",
+    "minecraft:frog",
+    "minecraft:bat"
+  ]
+}

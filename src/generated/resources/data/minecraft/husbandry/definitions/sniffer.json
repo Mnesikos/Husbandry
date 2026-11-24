@@ -1,0 +1,15 @@
+{
+  "forage": [
+    {
+      "chance": 0.25,
+      "hearts_required": 5,
+      "item": [
+        {
+          "count": 1,
+          "id": "minecraft:sniffer_egg"
+        }
+      ],
+      "quality": true
+    }
+  ]
+}

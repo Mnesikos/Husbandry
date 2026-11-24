@@ -1,0 +1,19 @@
+{
+  "forage": [
+    {
+      "chance": 0.3,
+      "hearts_required": 4,
+      "item": [
+        {
+          "count": 1,
+          "id": "minecraft:brown_mushroom"
+        }
+      ],
+      "quality": true
+    }
+  ],
+  "milk": {
+    "large": "husbandry:large_milk",
+    "small": "husbandry:milk"
+  }
+}

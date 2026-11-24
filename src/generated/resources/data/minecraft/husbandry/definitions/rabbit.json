@@ -1,0 +1,26 @@
+{
+  "forage": [
+    {
+      "chance": 0.33,
+      "hearts_required": 3,
+      "item": [
+        {
+          "count": 1,
+          "id": "minecraft:white_wool"
+        }
+      ],
+      "quality": true
+    },
+    {
+      "chance": 0.16,
+      "hearts_required": 5,
+      "item": [
+        {
+          "count": 1,
+          "id": "minecraft:rabbit_foot"
+        }
+      ],
+      "quality": true
+    }
+  ]
+}

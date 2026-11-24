@@ -1,0 +1,11 @@
+{
+  "values": {
+    "husbandry:candied_feed": {
+      "hand_fed": 100,
+      "trough_fed": 100
+    },
+    "husbandry:feed": {
+      "hand_fed": 10
+    }
+  }
+}

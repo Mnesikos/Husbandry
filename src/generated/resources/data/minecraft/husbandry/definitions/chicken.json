@@ -1,0 +1,15 @@
+{
+  "forage": [
+    {
+      "chance": 1.0,
+      "hearts_required": 4,
+      "item": [
+        {
+          "count": 1,
+          "id": "husbandry:large_egg"
+        }
+      ],
+      "quality": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "forage": [
+    {
+      "chance": 1.0,
+      "hearts_required": 2,
+      "item": [
+        {
+          "count": 3,
+          "id": "minecraft:apple"
+        }
+      ],
+      "quality": true
+    }
+  ]
+}

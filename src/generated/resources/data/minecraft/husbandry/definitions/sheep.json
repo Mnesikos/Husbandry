@@ -1,0 +1,20 @@
+{
+  "forage": [
+    {
+      "chance": 0.5,
+      "hearts_required": 4,
+      "item": [
+        {
+          "count": 1,
+          "id": "minecraft:white_wool"
+        }
+      ],
+      "quality": true
+    }
+  ],
+  "milk": {
+    "cooldown": 2,
+    "large": "husbandry:large_sheep_milk",
+    "small": "husbandry:sheep_milk"
+  }
+}
